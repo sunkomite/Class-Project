@@ -12,6 +12,8 @@ CRUD | Create / Read / Update / Delete
 5. Completed / Uncompleted
 6. Locally (Remember your To-Do's) | LocalStorage
 
+This is more than a practice
+
 This is just a Fine Project
 
 This OOP To-Do Project is Totally Free!
